@@ -5311,3 +5311,33 @@
 [16:06:00] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=effect,ID=14,range=4,duration=300;type=particle,ID=splashpotion,potion="invisibility";type=particle,ID=explode,size=(2.0,1.0,2.0),particleAmount=300,amount=30,delay=#rand(0.0,8.0))@luck=2
 [16:06:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [16:06:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FabiNoventero was slain by Wither
+[16:06:10] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=fill,ID=air,size=(1,8,1);type=entity,ID=falling_block,posY=#bPosY+7,NBTTag=(Block=gold_block);type=particle,ID=flame,size=(1,2,1),particleAmount=500;type=sound,ID=entity.ghast.shoot)@luck=0
+[16:06:13] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=Guardian,NBTTag=(Elder=1)))@chance=0.5@luck=-2
+[16:06:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: adr123643 withered away
+[16:06:26] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(ID=wooden_sword;type=difficulty,ID=hard;type=time,ID=18750;type=effect,ID=slowness,duration=30,amplifier=4;type=effect,ID=blindness,duration=30;group:1:(type=entity,ID=Zombie,amount=#rand(20,50);type=entity,ID=Creeper,amount=#rand(10,30);group(type=entity,ID=Spider,amount=#rand(15,45);type=entity,ID=CaveSpider,amount=#rand(5,10));group(type=entity,ID=Silverfish,amount=#rand(15,45);type=entity,ID=Endermite,amount=#rand(5,10));type=entity,ID=Guardian,amount=#rand(10,30);group(type=entity,ID=Zombie,amount=#rand(20,50);type=entity,ID=Creeper,amount=#rand(10,30);group(type=entity,ID=Spider,amount=#rand(15,45);type=entity,ID=CaveSpider,amount=#rand(5,10);type=entity,ID=Silverfish,amount=#rand(15,45);type=entity,ID=Endermite,amount=#rand(5,10);type=entity,ID=Guardian,amount=#rand(10,30)))),posOffset=#circleOffset(8,10))@luck=-2
+[16:06:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: adr123643 lost connection: Disconnected
+[16:06:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: adr123643 left the game
+[16:06:35] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=block,ID=fire,posOffset=#circleOffset(0,3),amount=50;type=block,ID=flowing_lava;type=particle,ID=splashpotion,potion="fire_resistance")@luck=-2
+[16:06:36] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=entity,ID=potion,NBTTag=(Potion=(id=splash_potion,tag=(Potion=#randList("slowness","harming","poison","weakness")),Count=1),Motion=#motionFromDirection(#rand(0,360),-70,0.4)),amount=10)@luck=-2
+[16:06:37] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=effect,ID=15,range=4,duration=10;type=effect,ID=2,range=4,duration=10;type=particle,ID=splashpotion,potion="slowness";type=particle,ID=largesmoke,size=(2.0,1.0,2.0),particleAmount=300,amount=30,delay=#rand(0.0,8.0))@luck=-2
+[16:06:37] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=effect,ID=15,range=4,duration=10;type=effect,ID=2,range=4,duration=10;type=particle,ID=splashpotion,potion="slowness";type=particle,ID=largesmoke,size=(2.0,1.0,2.0),particleAmount=300,amount=30,delay=#rand(0.0,8.0))@luck=-2
+[16:06:39] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=effect,ID=7,range=4;type=particle,ID=splashpotion,potion="harming";type=entity,ID=lucky:LuckyProjectile,NBTTag=(Motion=#motionFromDirection(#rand(0,360),-50,0.4),item=(id=iron_sword),damage=4.0),amount=20)@luck=-2
+[16:06:40] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=effect,ID=7,range=4;type=particle,ID=splashpotion,potion="harming";type=entity,ID=lucky:LuckyProjectile,NBTTag=(Motion=#motionFromDirection(#rand(0,360),-50,0.4),item=(id=iron_sword),damage=4.0),amount=20)@luck=-2
+[16:06:40] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=effect,ID=19,range=4,duration=30;type=particle,ID=splashpotion,potion="poison";type=difficulty,ID=hard;type=entity,ID=cave_spider;type=item,ID=#randList(rotten_flesh,spider_eye,fermented_spider_eye),posOffset=#circleOffset(0.0,2.0),amount=30)@luck=-2
+[16:06:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:07:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: FabiNoventero lost connection: Disconnected
+[16:07:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FabiNoventero left the game
+[16:07:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Zoiresu lost connection: Disconnected
+[16:07:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zoiresu left the game
+[16:07:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:08:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:09:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:09:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:10:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:11:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:12:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:12:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:13:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:14:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:15:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:15:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
