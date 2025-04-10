@@ -39,3 +39,18 @@
 [04:28:45] [Server thread/INFO]: CrisKnight left the game
 [04:30:02] [Server thread/INFO]: FabiNoventero burned to death
 [04:44:03] [Server thread/INFO]: DH_ShupaShotas has made the advancement [Monster Hunter]
+[04:46:50] [Server thread/INFO]: FabiNoventero tried to swim in lava
+[04:48:43] [Server thread/INFO]: FabiNoventero tried to swim in lava
+[04:50:33] [Server thread/INFO]: DH_ShupaShotas was shot by Skeleton
+[04:50:44] [Server thread/INFO]: DH_ShupaShotas lost connection: Disconnected
+[04:50:44] [Server thread/INFO]: DH_ShupaShotas left the game
+[04:51:47] [Server thread/INFO]: FabiNoventero lost connection: Disconnected
+[04:51:47] [Server thread/INFO]: FabiNoventero left the game
+[04:51:54] [Server thread/INFO]: Stopping the server
+[04:51:54] [Server thread/INFO]: Stopping server
+[04:51:54] [Server thread/INFO]: Saving players
+[04:51:54] [Server thread/INFO]: Saving worlds
+[04:51:54] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[04:51:54] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[04:51:54] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[04:51:54] [Server Shutdown Thread/INFO]: Stopping server
