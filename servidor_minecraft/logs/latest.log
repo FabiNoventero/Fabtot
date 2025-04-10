@@ -1,48 +1,27 @@
-[22:30:22] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[22:30:22] [Server thread/INFO]: Loading properties
-[22:30:22] [Server thread/INFO]: Default game type: SURVIVAL
-[22:30:22] [Server thread/INFO]: Generating keypair
-[22:30:22] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:30:22] [Server thread/INFO]: Using epoll channel type
-[22:30:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:30:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:30:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:30:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:30:22] [Server thread/INFO]: Preparing level "world"
-[22:30:23] [Server thread/INFO]: Loaded 488 advancements
-[22:30:23] [Server thread/INFO]: Preparing start region for level 0
-[22:30:23] [Server thread/INFO]: Done (0.476s)! For help, type "help" or "?"
-[22:30:31] [Server thread/INFO]: FabiNoventero[/127.118.86.102:44331] logged in with entity id 13 at (-10006.5, 64.0, -9995.5)
-[22:30:31] [Server thread/INFO]: FabiNoventero joined the game
-[22:31:07] [Server thread/INFO]: Maxul10[/127.44.62.164:35563] logged in with entity id 32 at (-10008.5, 64.0, -9990.5)
-[22:31:07] [Server thread/INFO]: Maxul10 joined the game
-[22:31:15] [Server thread/INFO]: Zoiresu[/127.198.167.143:47847] logged in with entity id 36 at (-9997.5, 64.0, -10010.5)
-[22:31:15] [Server thread/INFO]: Zoiresu joined the game
-[22:31:23] [Server thread/INFO]: RedComet1520[/127.121.186.69:57981] logged in with entity id 41 at (-10007.5, 64.0, -9994.5)
-[22:31:23] [Server thread/INFO]: RedComet1520 joined the game
-[22:31:37] [Server thread/INFO]: Opped FabiNoventero
-[22:37:35] [Server thread/WARN]: FabiNoventero moved wrongly!
-[22:40:17] [Server thread/WARN]: Fetching addPacket for removed entity
-[22:40:17] [Server thread/WARN]: Fetching addPacket for removed entity
-[22:47:08] [Server thread/WARN]: Tried to over-fill a container
-[22:56:37] [Server thread/WARN]: Tried to over-fill a container
-[23:15:54] [Server thread/WARN]: Fetching addPacket for removed entity
-[23:17:28] [Server thread/INFO]: Maxul10 lost connection: Disconnected
-[23:17:28] [Server thread/INFO]: §4Maxul10§r left the game
-[23:17:29] [Server thread/INFO]: RedComet1520 lost connection: Disconnected
-[23:17:29] [Server thread/INFO]: §4RedComet1520§r left the game
-[23:28:16] [Server thread/INFO]: Zoiresu lost connection: Disconnected
-[23:28:16] [Server thread/INFO]: Zoiresu left the game
-[23:28:19] [Server thread/INFO]: FabiNoventero lost connection: Disconnected
-[23:28:19] [Server thread/INFO]: FabiNoventero left the game
-[23:28:22] [Server thread/INFO]: Stopping the server
-[23:28:22] [Server thread/INFO]: Stopping server
-[23:28:22] [Server thread/INFO]: Saving players
-[23:28:22] [Server thread/INFO]: Saving worlds
-[23:28:22] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[23:28:22] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[23:28:22] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[23:28:22] [Server Shutdown Thread/INFO]: Stopping server
-[23:28:22] [Server Shutdown Thread/INFO]: Saving players
-[23:28:22] [Server Shutdown Thread/INFO]: Saving worlds
-[23:28:22] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[02:50:59] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[02:50:59] [Server thread/INFO]: Loading properties
+[02:50:59] [Server thread/INFO]: Default game type: SURVIVAL
+[02:50:59] [Server thread/INFO]: Generating keypair
+[02:50:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:50:59] [Server thread/INFO]: Using epoll channel type
+[02:50:59] [Server thread/INFO]: Preparing level "world"
+[02:51:00] [Server thread/INFO]: Loaded 488 advancements
+[02:51:00] [Server thread/INFO]: Preparing start region for level 0
+[02:51:01] [Server thread/INFO]: Preparing spawn area: 11%
+[02:51:02] [Server thread/INFO]: Preparing spawn area: 22%
+[02:51:03] [Server thread/INFO]: Preparing spawn area: 41%
+[02:51:04] [Server thread/INFO]: Preparing spawn area: 60%
+[02:51:05] [Server thread/INFO]: Preparing spawn area: 85%
+[02:51:06] [Server thread/INFO]: Done (6.345s)! For help, type "help" or "?"
+[02:52:24] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[02:52:30] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[02:52:34] [Server thread/INFO]: Stopping the server
+[02:52:34] [Server thread/INFO]: Stopping server
+[02:52:34] [Server thread/INFO]: Saving players
+[02:52:34] [Server thread/INFO]: Saving worlds
+[02:52:34] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[02:52:34] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[02:52:34] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[02:52:34] [Server Shutdown Thread/INFO]: Stopping server
+[02:52:34] [Server Shutdown Thread/INFO]: Saving players
+[02:52:34] [Server Shutdown Thread/INFO]: Saving worlds
