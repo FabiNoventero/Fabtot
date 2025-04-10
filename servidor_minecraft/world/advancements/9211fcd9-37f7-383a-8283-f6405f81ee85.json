@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-04-10 04:37:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-04-10 03:18:09 +0000"
@@ -347,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fence": {
+    "criteria": {
+      "has_planks": "2025-04-10 04:37:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-04-10 03:17:39 +0000"
@@ -356,7 +368,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-04-10 03:02:40 +0000",
+      "porkchop": "2025-04-10 04:39:01 +0000",
       "mutton": "2025-04-10 03:03:50 +0000",
+      "rotten_flesh": "2025-04-10 04:38:01 +0000",
       "carrot": "2025-04-10 04:02:09 +0000"
     },
     "done": false
@@ -448,6 +462,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-04-10 03:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-10 04:37:09 +0000"
     },
     "done": true
   },
@@ -751,6 +771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-10 04:37:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-04-10 02:54:46 +0000"
@@ -1010,6 +1036,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-10 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_door": {
+    "criteria": {
+      "has_planks": "2025-04-10 04:37:09 +0000"
     },
     "done": true
   },
