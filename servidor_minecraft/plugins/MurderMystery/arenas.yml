@@ -70,6 +70,9 @@ instances:
     endlocation: world,98.42,20.0,-630.47,2.25,89.85
     goldvisuals: false
     mapname: Prision
+  Village:
+    isdone: false
+    lobbylocation: wort,43.57,22.0,54.52,-5.82,89.85
 
 # Don't edit it. But who's stopping you? It's your server!
 # Really, don't edit ;p
