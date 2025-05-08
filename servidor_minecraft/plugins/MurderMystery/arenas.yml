@@ -72,7 +72,35 @@ instances:
     mapname: Prision
   Village:
     isdone: false
-    lobbylocation: wort,43.57,22.0,54.52,-5.82,89.85
+    lobbylocation: wort,43.34,22.0,54.58,-154.62,90.0
+    playerspawnpoints:
+    - wort,74,8,-19,0.0,0.0
+    - wort,10,8,-32,0.0,0.0
+    - wort,42,10,-64,0.0,0.0
+    - wort,84,8,-35,0.0,0.0
+    - wort,52,8,7,0.0,0.0
+    - wort,7,8,-10,0.0,0.0
+    - wort,24,8,-37,0.0,0.0
+    - wort,64,4,26,0.0,0.0
+    - wort,100,8,-19,0.0,0.0
+    - wort,91,4,-69,0.0,0.0
+    - wort,55,4,-87,0.0,0.0
+    - wort,4,4,-88,0.0,0.0
+    - wort,-23,4,-55,0.0,0.0
+    - wort,-14,4,1,0.0,0.0
+    - wort,18,4,27,0.0,0.0
+    - wort,43,9,-21,0.0,0.0
+    startlocation: wort,43.33,9.0,-20.45,159.63,88.65
+    spectatorlocation: wort,41.55,8.0,-21.39,-57.72,84.15
+    minimumplayers: 4
+    maximumplayers: 10
+    mapname: Village
+    goldvisuals: false
+    spawngoldtime: 9
+    playerpermurderer: 1
+    playerperdetective: 1
+    goldspawnpoints:
+    - wort,28,9,-24,0.0,0.0
 
 # Don't edit it. But who's stopping you? It's your server!
 # Really, don't edit ;p
