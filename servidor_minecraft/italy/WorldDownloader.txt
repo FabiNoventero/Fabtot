@@ -1,0 +1,4 @@
+#These settings are used for a single world in a multiworld server.
+#Wed May 24 19:21:09 EEST 2017
+WorldName=Italy
+LastSaved=1495642869179

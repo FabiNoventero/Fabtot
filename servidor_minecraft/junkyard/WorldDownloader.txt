@@ -1,0 +1,4 @@
+#These settings are used for a single world in a multiworld server.
+#Tue Aug 22 13:02:07 EEST 2017
+WorldName=Junkyard
+LastSaved=1503396127702

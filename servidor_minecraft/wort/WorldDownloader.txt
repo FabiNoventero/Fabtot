@@ -1,0 +1,4 @@
+#These settings are used for a single world in a multiworld server.
+#Fri Sep 22 16:59:47 EEST 2017
+WorldName=Murder Village
+LastSaved=1506088787555

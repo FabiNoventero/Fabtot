@@ -1,0 +1,4 @@
+#These settings are used for a single world in a multiworld server.
+#Wed May 24 19:19:00 EEST 2017
+WorldName=Jail Break
+LastSaved=1495642740054
