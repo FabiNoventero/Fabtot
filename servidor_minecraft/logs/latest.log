@@ -111,3 +111,6 @@
 [15:39:32] [Server thread/INFO]: [FabiNoventero: Set own game mode to Spectator Mode]
 [15:39:34] [Server thread/INFO]: FabiNoventero issued server command: /gamemode creative
 [15:39:34] [Server thread/INFO]: [FabiNoventero: Set own game mode to Creative Mode]
+[15:52:26] [Server thread/INFO]: FabiNoventero issued server command: /fill 45 27 59
+[15:52:38] [Server thread/INFO]: FabiNoventero issued server command: /fill 45 27 59 37 27 50 minecraft:spruce_planks
+[15:52:38] [Server thread/INFO]: [FabiNoventero: Successfully filled 88 block(s)]
