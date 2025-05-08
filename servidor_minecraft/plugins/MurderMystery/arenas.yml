@@ -96,11 +96,37 @@ instances:
     maximumplayers: 10
     mapname: Village
     goldvisuals: false
-    spawngoldtime: 9
+    spawngoldtime: 30
     playerpermurderer: 1
     playerperdetective: 1
     goldspawnpoints:
     - wort,28,9,-24,0.0,0.0
+    - wort,44,7,-39,0.0,0.0
+    - wort,24,8,-53,0.0,0.0
+    - wort,11,8,-37,0.0,0.0
+    - wort,-18,4,-6,0.0,0.0
+    - wort,2,4,8,0.0,0.0
+    - wort,38,4,35,0.0,0.0
+    - wort,78,7,11,0.0,0.0
+    - wort,102,9,-17,0.0,0.0
+    - wort,97,5,-73,0.0,0.0
+    - wort,2,4,-93,0.0,0.0
+    - wort,-26,5,-55,0.0,0.0
+    - wort,12,8,-52,0.0,0.0
+    - wort,17,8,-27,0.0,0.0
+    - wort,9,8,-19,0.0,0.0
+    - wort,30,9,-13,0.0,0.0
+    - wort,40,9,-3,0.0,0.0
+    - wort,68,8,5,0.0,0.0
+    - wort,66,8,-43,0.0,0.0
+    - wort,33,13,-61,0.0,0.0
+    - wort,-1,13,-57,0.0,0.0
+    - wort,61,11,-59,0.0,0.0
+    confessionals:
+    - wort,34,9,-63,0.0,0.0
+    - wort,42,9,46,0.0,0.0
+    mystery-cauldrons:
+    - wort,27,9,-24,0.0,0.0
 
 # Don't edit it. But who's stopping you? It's your server!
 # Really, don't edit ;p
