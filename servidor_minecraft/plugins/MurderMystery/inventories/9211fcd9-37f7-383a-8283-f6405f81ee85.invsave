@@ -1,0 +1,110 @@
+ExperienceProgress: 0.0
+ExperienceLevel: 0
+Current health: 17.0
+Food: 17
+Saturation: 0.0
+Fire ticks: -20
+GameMode: SURVIVAL
+Allow flight: false
+Flight speed: 0.1
+Walk speed: 0.2
+Size: 41
+Max stack size: 99
+Active potion effects: []
+Max health: 20.0
+Holder: FabiNoventero
+Slot 2:
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: SOUL_LANTERN
+Slot 3:
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: LEVER
+  amount: 2
+Slot 4:
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: CAULDRON
+Slot 5:
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: ENCHANTING_TABLE
+Slot 6:
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: JUNGLE_PLANKS
+Slot 7:
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: JUNGLE_STAIRS
+Slot 10:
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: GLASS
+  amount: 2
+Slot 11:
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: FLOWER_POT
+Slot 12:
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: SPRUCE_PLANKS
+Slot 13:
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: COBWEB
+Slot 14:
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: RED_CARPET
+Slot 15:
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: STONE
+Slot 16:
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: LEATHER
+Slot 17:
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: BARRIER
+Slot 18:
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: CLOSED_EYEBLOSSOM
+Slot 19:
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: SPRUCE_SLAB
+Slot 22:
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: DARK_OAK_STAIRS
+Slot 29:
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: STRIPPED_DARK_OAK_WOOD
+Slot 30:
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: DARK_OAK_WOOD
+Slot 31:
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: SPRUCE_WOOD
+Slot 32:
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: SPRUCE_STAIRS
+Slot 34:
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: CHAIN
+Offhand:
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: AIR
+  amount: 0

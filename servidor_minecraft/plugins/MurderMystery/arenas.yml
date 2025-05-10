@@ -71,7 +71,7 @@ instances:
     goldvisuals: false
     mapname: Prision
   Village:
-    isdone: false
+    isdone: true
     lobbylocation: wort,43.34,22.0,54.58,-154.62,90.0
     playerspawnpoints:
     - wort,74,8,-19,0.0,0.0
@@ -127,6 +127,9 @@ instances:
     - wort,42,9,46,0.0,0.0
     mystery-cauldrons:
     - wort,27,9,-24,0.0,0.0
+    endlocation: world,98.49,20.0,-630.66,-0.9,90.0
+    signs:
+    - world,100,21,-629,0.0,0.0
 
 # Don't edit it. But who's stopping you? It's your server!
 # Really, don't edit ;p
