@@ -1,107 +1,117 @@
-[04:41:15] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[04:41:15] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-222-main@9b1798d (2025-03-27T13:35:40Z) for Minecraft 1.21.4
-[04:41:15] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[04:41:16] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[04:41:16] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+[04:52:13] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[04:52:13] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-222-main@9b1798d (2025-03-27T13:35:40Z) for Minecraft 1.21.4
+[04:52:13] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[04:52:15] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[04:52:15] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
  - Multiverse-Core (4.3.16), Multiverse-Inventories (4.2.8), Multiverse-SignPortals (4.3.0), MurderMystery (2.1.2)
-[04:41:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:41:21] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[04:41:22] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 351.9ms
-[04:41:23] [ServerMain/INFO]: Loaded 1370 recipes
-[04:41:23] [ServerMain/INFO]: Loaded 1481 advancements
-[04:41:24] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[04:41:24] [Server thread/INFO]: Loading properties
-[04:41:24] [Server thread/INFO]: This server is running Paper version 1.21.4-222-main@9b1798d (2025-03-27T13:35:40Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
-[04:41:24] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[04:41:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[04:41:24] [Server thread/INFO]: Using 4 threads for Netty based IO
-[04:41:25] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[04:41:25] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[04:41:25] [Server thread/INFO]: Default game type: ADVENTURE
-[04:41:25] [Server thread/INFO]: Generating keypair
-[04:41:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:41:25] [Server thread/INFO]: Using epoll channel type
-[04:41:25] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[04:41:25] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[04:41:26] [Server thread/INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.16
-[04:41:26] [Server thread/INFO]: [Multiverse-Inventories] Loading server plugin Multiverse-Inventories v4.2.8
-[04:41:26] [Server thread/INFO]: [Multiverse-SignPortals] Loading server plugin Multiverse-SignPortals v4.3.0
-[04:41:26] [Server thread/INFO]: [MurderMystery] Loading server plugin MurderMystery v2.1.2
-[04:41:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[04:41:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:41:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:41:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:41:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:41:26] [Server thread/INFO]: Preparing level "world"
-[04:41:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:41:26] [Server thread/INFO]: Preparing spawn area: 0%
-[04:41:26] [Server thread/INFO]: Time elapsed: 393 ms
-[04:41:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[04:41:26] [Server thread/INFO]: Preparing spawn area: 0%
-[04:41:27] [Server thread/INFO]: Time elapsed: 452 ms
-[04:41:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[04:41:27] [Server thread/INFO]: Preparing spawn area: 0%
-[04:41:27] [Server thread/INFO]: Time elapsed: 102 ms
-[04:41:27] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.16
-[04:41:27] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.16" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
-[04:41:27] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
-[04:41:27] [Server thread/INFO]: Preparing start region for dimension minecraft:worled
-[04:41:27] [Server thread/INFO]: Preparing spawn area: 0%
-[04:41:27] [Server thread/INFO]: Time elapsed: 246 ms
-[04:41:28] [Server thread/INFO]: Preparing start region for dimension minecraft:wort
-[04:41:28] [Server thread/INFO]: Preparing spawn area: 0%
-[04:41:28] [Server thread/INFO]: Time elapsed: 147 ms
-[04:41:28] [Server thread/INFO]: [Multiverse-Core] 5 - World(s) loaded.
-[04:41:28] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
-[04:41:28] [Server thread/INFO]: [Multiverse-Core] Version 4.3.16 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
-[04:41:28] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v4.2.8
-[04:41:28] [Server thread/INFO]: [Multiverse-Inventories 4.2.8] enabled.
-[04:41:28] [Server thread/INFO]: [Multiverse-SignPortals] Enabling Multiverse-SignPortals v4.3.0
-[04:41:28] [Server thread/INFO]: [Multiverse-SignPortals 4.3.0]  Enabled - By Rigby and fernferret
-[04:41:28] [Server thread/INFO]: [MurderMystery] Enabling MurderMystery v2.1.2
-[04:41:28] [Server thread/INFO]: [MurderMystery] Connecting to services, please wait! Server may freeze a bit!
-[04:41:28] [Server thread/INFO]: [MurderMystery] Hooked with ServiceRegistry! Initialized services properly!
-[04:41:29] [Server thread/WARN]: [MurderMystery] [Debug] Fetched latest localization file from repository.
-[04:41:29] [Server thread/WARN]: [MurderMystery] [Debug] §aLoaded locale Default (Default ID: default) by Internal Plugin
-[04:41:29] [ForkJoinPool.commonPool-worker-1/INFO]:   _   _               _           _          
-[04:41:29] [ForkJoinPool.commonPool-worker-1/INFO]:  | | | |  _ __     __| |   __ _  | |_    ___ 
-[04:41:29] [ForkJoinPool.commonPool-worker-1/INFO]:  | | | | | '_ \   / _` |  / _` | | __|  / _ \
-[04:41:29] [ForkJoinPool.commonPool-worker-1/INFO]:  | |_| | | |_) | | (_| | | (_| | | |_  |  __/
-[04:41:29] [ForkJoinPool.commonPool-worker-1/INFO]:   \___/  | .__/   \__,_|  \__,_|  \__|  \___|
-[04:41:29] [ForkJoinPool.commonPool-worker-1/INFO]:          |_|                                 
-[04:41:29] [ForkJoinPool.commonPool-worker-1/INFO]: [MurderMystery] Your MurderMystery plugin is outdated! Download it to keep with latest changes and fixes.
-[04:41:29] [ForkJoinPool.commonPool-worker-1/INFO]: [MurderMystery] Disable this option in config.yml if you wish.
-[04:41:29] [ForkJoinPool.commonPool-worker-1/INFO]: [MurderMystery] Current version: 2.1.2 Latest version: 2.1.3
-[04:41:29] [Server thread/INFO]: [MurderMystery] -_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_-
-[04:41:29] [Server thread/INFO]: [MurderMystery] 
-[04:41:29] [Server thread/INFO]: [MurderMystery] Versions: 
-[04:41:29] [Server thread/INFO]: [MurderMystery] Plugin: 2.1.2 | Server: 1.21.4-222-9b1798d (MC: 1.21.4) | Detected: v1_21 | Software: Paper | Java: 21.0.6
-[04:41:29] [Server thread/INFO]: [MurderMystery] 
-[04:41:29] [Server thread/INFO]: [MurderMystery] This plugin was created by Plugily Projects as part of an open source project ( https://donate.plugily.xyz )
-[04:41:29] [Server thread/INFO]: [MurderMystery] 
-[04:41:29] [Server thread/INFO]: [MurderMystery][SUPPORT] If you have any problems, you can always contact us on our Discord server! ( https://discord.plugily.xyz )
-[04:41:29] [Server thread/INFO]: [MurderMystery][SUPPORT] You can also check out our wiki at https://wiki.plugily.xyz
-[04:41:29] [Server thread/INFO]: [MurderMystery] 
-[04:41:29] [Server thread/INFO]: [MurderMystery]                               The plugin got fully enabled! Enjoy the plugin ;)
-[04:41:29] [Server thread/INFO]: [MurderMystery] -_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_-
-[04:41:29] [Server thread/INFO]: Arena Prision instance successfully started!
-[04:41:30] [Server thread/WARN]: [MurderMystery] [Debug] Block at location world,101,21,-629,0.0,0.0 for arena Prision added as sign!
-[04:41:30] [Server thread/INFO]: Arena Village instance successfully started!
-[04:41:30] [Server thread/WARN]: [MurderMystery] [Debug] Block at location world,101,21,-629,0.0,0.0 for arena Prision added as sign!
-[04:41:30] [Server thread/WARN]: [MurderMystery] [Debug] Block at location world,100,21,-629,0.0,0.0 for arena Village added as sign!
-[04:41:30] [Server thread/WARN]: [MurderMystery] [Debug] Block at location world,101,21,-629,0.0,0.0 for arena Prision added as sign!
-[04:41:30] [Server thread/WARN]: [MurderMystery] [Debug] Block at location world,100,21,-629,0.0,0.0 for arena Village added as sign!
-[04:41:30] [Server thread/INFO]: [spark] Starting background profiler...
-[04:41:30] [Server thread/INFO]: Done preparing level "world" (4.569s)
-[04:41:30] [Server thread/INFO]: Running delayed init tasks
-[04:41:30] [Server thread/INFO]: [Multiverse-Inventories] First run!
-[04:41:30] [Server thread/INFO]: Done (16.431s)! For help, type "help"
-[04:41:44] [User Authenticator #0/INFO]: UUID of player FabiNoventero is 9211fcd9-37f7-383a-8283-f6405f81ee85
-[04:41:47] [Server thread/INFO]: FabiNoventero joined the game
-[04:41:47] [Server thread/INFO]: FabiNoventero[/127.92.80.51:48345] logged in with entity id 13 at ([world]96.05914215874905, 22.368607831452366, -655.5567689614669)
-[04:50:06] [pool-14-thread-1/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:50:06] [Server thread/INFO]: [MurderMystery] Saved inventory of FabiNoventero
-[04:50:09] [Server thread/INFO]: [MurderMystery] Loaded inventory of FabiNoventero
-[04:50:13] [Server thread/INFO]: [MurderMystery] Saved inventory of FabiNoventero
-[05:00:27] [Server thread/INFO]: [MurderMystery] Loaded inventory of FabiNoventero
-[05:00:29] [Server thread/INFO]: [MurderMystery] Saved inventory of FabiNoventero
+[04:52:22] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:52:22] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[04:52:22] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 444.9ms
+[04:52:25] [ServerMain/INFO]: Loaded 1370 recipes
+[04:52:25] [ServerMain/INFO]: Loaded 1481 advancements
+[04:52:25] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[04:52:25] [Server thread/INFO]: Loading properties
+[04:52:25] [Server thread/INFO]: This server is running Paper version 1.21.4-222-main@9b1798d (2025-03-27T13:35:40Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[04:52:25] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[04:52:26] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:52:26] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:52:27] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[04:52:27] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[04:52:27] [Server thread/INFO]: Default game type: ADVENTURE
+[04:52:27] [Server thread/INFO]: Generating keypair
+[04:52:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:52:28] [Server thread/INFO]: Using epoll channel type
+[04:52:28] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[04:52:28] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[04:52:28] [Server thread/INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.16
+[04:52:28] [Server thread/INFO]: [Multiverse-Inventories] Loading server plugin Multiverse-Inventories v4.2.8
+[04:52:28] [Server thread/INFO]: [Multiverse-SignPortals] Loading server plugin Multiverse-SignPortals v4.3.0
+[04:52:28] [Server thread/INFO]: [MurderMystery] Loading server plugin MurderMystery v2.1.2
+[04:52:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:52:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:52:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:52:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:52:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:52:28] [Server thread/INFO]: Preparing level "world"
+[04:52:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:52:29] [Server thread/INFO]: Preparing spawn area: 0%
+[04:52:29] [Server thread/INFO]: Preparing spawn area: 30%
+[04:52:29] [Server thread/INFO]: Time elapsed: 610 ms
+[04:52:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[04:52:30] [Server thread/INFO]: Preparing spawn area: 0%
+[04:52:30] [Server thread/INFO]: Preparing spawn area: 30%
+[04:52:30] [Server thread/INFO]: Time elapsed: 613 ms
+[04:52:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[04:52:30] [Server thread/INFO]: Preparing spawn area: 0%
+[04:52:30] [Server thread/INFO]: Time elapsed: 101 ms
+[04:52:30] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.16
+[04:52:30] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.16" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[04:52:30] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[04:52:30] [Server thread/INFO]: Preparing start region for dimension minecraft:worled
+[04:52:30] [Server thread/INFO]: Preparing spawn area: 0%
+[04:52:31] [Server thread/INFO]: Time elapsed: 328 ms
+[04:52:31] [Server thread/INFO]: Preparing start region for dimension minecraft:wort
+[04:52:31] [Server thread/INFO]: Preparing spawn area: 0%
+[04:52:31] [Server thread/INFO]: Time elapsed: 224 ms
+[04:52:31] [Server thread/INFO]: [Multiverse-Core] 5 - World(s) loaded.
+[04:52:31] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[04:52:31] [Server thread/INFO]: [Multiverse-Core] Version 4.3.16 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[04:52:31] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v4.2.8
+[04:52:31] [Server thread/INFO]: [Multiverse-Inventories 4.2.8] enabled.
+[04:52:31] [Server thread/INFO]: [Multiverse-SignPortals] Enabling Multiverse-SignPortals v4.3.0
+[04:52:31] [Server thread/INFO]: [Multiverse-SignPortals 4.3.0]  Enabled - By Rigby and fernferret
+[04:52:31] [Server thread/INFO]: [MurderMystery] Enabling MurderMystery v2.1.2
+[04:52:31] [Server thread/INFO]: [MurderMystery] Connecting to services, please wait! Server may freeze a bit!
+[04:52:32] [Server thread/INFO]: [MurderMystery] Hooked with ServiceRegistry! Initialized services properly!
+[04:52:32] [Server thread/WARN]: [MurderMystery] [Debug] Fetched latest localization file from repository.
+[04:52:32] [Server thread/WARN]: [MurderMystery] [Debug] §aLoaded locale Default (Default ID: default) by Internal Plugin
+[04:52:32] [ForkJoinPool.commonPool-worker-1/INFO]:   _   _               _           _          
+[04:52:32] [ForkJoinPool.commonPool-worker-1/INFO]:  | | | |  _ __     __| |   __ _  | |_    ___ 
+[04:52:32] [ForkJoinPool.commonPool-worker-1/INFO]:  | | | | | '_ \   / _` |  / _` | | __|  / _ \
+[04:52:32] [ForkJoinPool.commonPool-worker-1/INFO]:  | |_| | | |_) | | (_| | | (_| | | |_  |  __/
+[04:52:32] [ForkJoinPool.commonPool-worker-1/INFO]:   \___/  | .__/   \__,_|  \__,_|  \__|  \___|
+[04:52:32] [ForkJoinPool.commonPool-worker-1/INFO]:          |_|                                 
+[04:52:32] [ForkJoinPool.commonPool-worker-1/INFO]: [MurderMystery] Your MurderMystery plugin is outdated! Download it to keep with latest changes and fixes.
+[04:52:32] [ForkJoinPool.commonPool-worker-1/INFO]: [MurderMystery] Disable this option in config.yml if you wish.
+[04:52:32] [ForkJoinPool.commonPool-worker-1/INFO]: [MurderMystery] Current version: 2.1.2 Latest version: 2.1.3
+[04:52:33] [Server thread/INFO]: [MurderMystery] -_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_-
+[04:52:33] [Server thread/INFO]: [MurderMystery] 
+[04:52:33] [Server thread/INFO]: [MurderMystery] Versions: 
+[04:52:33] [Server thread/INFO]: [MurderMystery] Plugin: 2.1.2 | Server: 1.21.4-222-9b1798d (MC: 1.21.4) | Detected: v1_21 | Software: Paper | Java: 21.0.6
+[04:52:33] [Server thread/INFO]: [MurderMystery] 
+[04:52:33] [Server thread/INFO]: [MurderMystery] This plugin was created by Plugily Projects as part of an open source project ( https://donate.plugily.xyz )
+[04:52:33] [Server thread/INFO]: [MurderMystery] 
+[04:52:33] [Server thread/INFO]: [MurderMystery][SUPPORT] If you have any problems, you can always contact us on our Discord server! ( https://discord.plugily.xyz )
+[04:52:33] [Server thread/INFO]: [MurderMystery][SUPPORT] You can also check out our wiki at https://wiki.plugily.xyz
+[04:52:33] [Server thread/INFO]: [MurderMystery] 
+[04:52:33] [Server thread/INFO]: [MurderMystery]                               The plugin got fully enabled! Enjoy the plugin ;)
+[04:52:33] [Server thread/INFO]: [MurderMystery] -_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_--_-_-_-
+[04:52:33] [Server thread/INFO]: Arena Prision instance successfully started!
+[04:52:33] [Server thread/WARN]: [MurderMystery] [Debug] Block at location world,101,21,-629,0.0,0.0 for arena Prision added as sign!
+[04:52:33] [Server thread/INFO]: Arena Village instance successfully started!
+[04:52:33] [Server thread/WARN]: [MurderMystery] [Debug] Block at location world,101,21,-629,0.0,0.0 for arena Prision added as sign!
+[04:52:33] [Server thread/WARN]: [MurderMystery] [Debug] Block at location world,100,21,-629,0.0,0.0 for arena Village added as sign!
+[04:52:33] [Server thread/WARN]: [MurderMystery] [Debug] Block at location world,101,21,-629,0.0,0.0 for arena Prision added as sign!
+[04:52:33] [Server thread/WARN]: [MurderMystery] [Debug] Block at location world,100,21,-629,0.0,0.0 for arena Village added as sign!
+[04:52:34] [Server thread/INFO]: [spark] Starting background profiler...
+[04:52:34] [Server thread/INFO]: Done preparing level "world" (5.539s)
+[04:52:34] [Server thread/INFO]: Running delayed init tasks
+[04:52:34] [Server thread/INFO]: [Multiverse-Inventories] First run!
+[04:52:34] [Server thread/INFO]: Done (23.451s)! For help, type "help"
+[04:53:13] [User Authenticator #0/INFO]: UUID of player FabiNoventero is 9211fcd9-37f7-383a-8283-f6405f81ee85
+[04:53:15] [Server thread/INFO]: FabiNoventero joined the game
+[04:53:15] [Server thread/INFO]: FabiNoventero[/127.92.80.51:60673] logged in with entity id 13 at ([wort]39.170238861277554, 22.0625, 51.22559468970738)
+[04:53:34] [Server thread/INFO]: FabiNoventero issued server command: /mvtp world
+[04:54:03] [Server thread/INFO]: FabiNoventero lost connection: Disconnected
+[04:54:03] [Server thread/INFO]: FabiNoventero left the game
+[04:57:30] [User Authenticator #1/INFO]: UUID of player FabiNoventero is 9211fcd9-37f7-383a-8283-f6405f81ee85
+[04:57:32] [Server thread/INFO]: FabiNoventero joined the game
+[04:57:32] [Server thread/INFO]: FabiNoventero[/127.92.80.51:47115] logged in with entity id 16 at ([world]99.57685223899945, 16.0, -677.564531406859)
+[04:58:10] [Server thread/INFO]: FabiNoventero issued server command: /effect give FabiNoventero minecraft:saturation
+[04:58:10] [Server thread/INFO]: [FabiNoventero: Applied effect Saturation to FabiNoventero]
+[04:58:13] [Server thread/INFO]: FabiNoventero issued server command: /effect give FabiNoventero minecraft:saturation 10
+[04:58:13] [Server thread/INFO]: [FabiNoventero: Applied effect Saturation to FabiNoventero]
+[04:58:59] [Server thread/INFO]: FabiNoventero issued server command: /effect give FabiNoventero minecraft:saturation 10
+[04:58:59] [Server thread/INFO]: [FabiNoventero: Applied effect Saturation to FabiNoventero]
+[05:01:01] [Server thread/INFO]: FabiNoventero issued server command: /effect give FabiNoventero minecraft:saturation 10
+[05:01:01] [Server thread/INFO]: [FabiNoventero: Applied effect Saturation to FabiNoventero]
