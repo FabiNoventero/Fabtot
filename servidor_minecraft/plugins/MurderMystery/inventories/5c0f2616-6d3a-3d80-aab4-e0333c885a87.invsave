@@ -1,0 +1,20 @@
+ExperienceProgress: 0.0
+ExperienceLevel: 0
+Current health: 20.0
+Food: 20
+Saturation: 5.0
+Fire ticks: -20
+GameMode: SURVIVAL
+Allow flight: false
+Flight speed: 0.1
+Walk speed: 0.2
+Size: 41
+Max stack size: 99
+Active potion effects: []
+Max health: 20.0
+Holder: Mattakchero_24
+Offhand:
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: AIR
+  amount: 0

@@ -198,3 +198,42 @@ unban<--[HERE]
 Reason: Banned by an operator.
 [05:11:54] [Server thread/INFO]: Zoiresu (/127.157.146.62:51803) lost connection: You are banned from this server.
 Reason: Banned by an operator.
+[05:12:04] [User Authenticator #4/INFO]: UUID of player Zoiresu is 4773e8df-77f9-3cac-ab7b-05d317771d9d
+[05:12:04] [Server thread/INFO]: Disconnecting Zoiresu (/127.157.146.62:47615): You are banned from this server.
+Reason: Banned by an operator.
+[05:12:04] [Server thread/INFO]: Zoiresu (/127.157.146.62:47615) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[05:12:06] [Server thread/INFO]: FabiNoventero issued server command: /minecraft:pardon Zoiresu
+[05:12:06] [Server thread/INFO]: [FabiNoventero: Unbanned Zoiresu]
+[05:12:13] [User Authenticator #4/INFO]: UUID of player Zoiresu is 4773e8df-77f9-3cac-ab7b-05d317771d9d
+[05:12:15] [Server thread/INFO]: Zoiresu joined the game
+[05:12:15] [Server thread/INFO]: Zoiresu[/127.157.146.62:50189] logged in with entity id 31 at ([world]94.09596159284305, 22.0, -633.7417448419305)
+[05:12:18] [Server thread/INFO]: adr123643 fell out of the world
+[05:13:09] [Server thread/INFO]: FabiNoventero issued server command: /effect give FabiNoventero minecraft:saturation 100
+[05:13:09] [Server thread/INFO]: [FabiNoventero: Applied effect Saturation to FabiNoventero]
+[05:13:56] [Server thread/INFO]: adr123643 fell out of the world
+[05:14:18] [User Authenticator #5/INFO]: UUID of player Mattakchero_24 is 5c0f2616-6d3a-3d80-aab4-e0333c885a87
+[05:14:19] [Server thread/INFO]: Mattakchero_24 joined the game
+[05:14:19] [Server thread/INFO]: Mattakchero_24[/127.60.210.75:49829] logged in with entity id 32 at ([world]98.5, 16.0, -688.5)
+[05:15:53] [Server thread/INFO]: [MurderMystery] Saved inventory of adr123643
+[05:15:59] [Server thread/INFO]: [MurderMystery] Loaded inventory of adr123643
+[05:15:59] [Server thread/INFO]: [MurderMystery] Saved inventory of Zoiresu
+[05:16:08] [Server thread/INFO]: FabiNoventero issued server command: /op Mattakchero_24
+[05:16:08] [Server thread/INFO]: [FabiNoventero: Made Mattakchero_24 a server operator]
+[05:16:08] [Server thread/INFO]: [MurderMystery] Saved inventory of Mattakchero_24
+[05:16:17] [Server thread/INFO]: FabiNoventero issued server command: /time set day
+[05:16:17] [Server thread/INFO]: [FabiNoventero: Set the time to 1000]
+[05:16:28] [Server thread/INFO]: adr123643 fell out of the world
+[05:17:05] [Server thread/INFO]: FabiNoventero issued server command: /effect give FabiNoventero minecraft:saturation 100
+[05:17:05] [Server thread/INFO]: [FabiNoventero: Applied effect Saturation to FabiNoventero]
+[05:17:12] [Server thread/INFO]: Unknown or incomplete command, see below for error
+o<--[HERE]
+[05:18:51] [Server thread/INFO]: [MurderMystery] Loaded inventory of Mattakchero_24
+[05:20:33] [Server thread/INFO]: [MurderMystery] Saved inventory of FabiNoventero
+[05:20:34] [Server thread/INFO]: [MurderMystery] Saved inventory of Mattakchero_24
+[05:21:34] [Server thread/INFO]: [MurderMystery] Saved inventory of adr123643
+[05:21:55] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[05:22:02] [Server thread/WARN]: adr123643 moved too quickly! -19.68166598233949,-0.7012968536522095,8.970611705564345
+[05:22:02] [Server thread/WARN]: Zoiresu moved too quickly! -14.770668879391703,0.5813359922251706,17.32088965008775
+[05:22:02] [Server thread/WARN]: Mattakchero_24 moved too quickly! 14.962774342736104,-5.7826406445233545,-5.989953805020654
+[05:22:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7263ms or 145 ticks behind
