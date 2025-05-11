@@ -96,7 +96,7 @@ instances:
     maximumplayers: 10
     mapname: Village
     goldvisuals: false
-    spawngoldtime: 4
+    spawngoldtime: 3
     playerpermurderer: 1
     playerperdetective: 1
     goldspawnpoints:
