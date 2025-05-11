@@ -1,5 +1,17 @@
 [
   {
+    "uuid": "4773e8df-77f9-3cac-ab7b-05d317771d9d",
+    "name": "Zoiresu",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e42d5715-f2f6-3000-944d-b2ca32c6aa6c",
+    "name": "adr123643",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "9211fcd9-37f7-383a-8283-f6405f81ee85",
     "name": "FabiNoventero",
     "level": 4,

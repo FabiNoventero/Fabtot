@@ -115,3 +115,86 @@
 [04:58:59] [Server thread/INFO]: [FabiNoventero: Applied effect Saturation to FabiNoventero]
 [05:01:01] [Server thread/INFO]: FabiNoventero issued server command: /effect give FabiNoventero minecraft:saturation 10
 [05:01:01] [Server thread/INFO]: [FabiNoventero: Applied effect Saturation to FabiNoventero]
+[05:02:31] [User Authenticator #2/INFO]: UUID of player Zoiresu is 4773e8df-77f9-3cac-ab7b-05d317771d9d
+[05:02:33] [Server thread/INFO]: Zoiresu joined the game
+[05:02:33] [Server thread/INFO]: Zoiresu[/127.157.146.62:49301] logged in with entity id 17 at ([world]98.5, 16.0, -688.5)
+[05:03:02] [Server thread/INFO]: Zoiresu fell out of the world
+[05:03:47] [Server thread/INFO]: FabiNoventero issued server command: /gamemode creative
+[05:03:47] [Server thread/INFO]: [FabiNoventero: Set own game mode to Creative Mode]
+[05:03:54] [Server thread/INFO]: FabiNoventero issued server command: /gamemode survival
+[05:03:54] [Server thread/INFO]: [FabiNoventero: Set own game mode to Survival Mode]
+[05:04:41] [User Authenticator #3/INFO]: UUID of player adr123643 is e42d5715-f2f6-3000-944d-b2ca32c6aa6c
+[05:04:42] [Server thread/INFO]: adr123643 joined the game
+[05:04:42] [Server thread/INFO]: adr123643[/127.206.0.176:35123] logged in with entity id 18 at ([world]98.5, 16.0, -688.5)
+[05:05:19] [Server thread/INFO]: Zoiresu fell out of the world
+[05:05:54] [Server thread/INFO]: adr123643 fell out of the world
+[05:05:59] [Server thread/INFO]: FabiNoventero issued server command: /time set day
+[05:05:59] [Server thread/INFO]: [FabiNoventero: Set the time to 1000]
+[05:07:45] [Server thread/INFO]: FabiNoventero issued server command: /effect give FabiNoventero minecraft:saturation 10
+[05:07:45] [Server thread/INFO]: [FabiNoventero: Applied effect Saturation to FabiNoventero]
+[05:07:48] [Server thread/INFO]: FabiNoventero issued server command: /effect give FabiNoventero minecraft:saturation 10
+[05:07:48] [Server thread/INFO]: [FabiNoventero: Applied effect Saturation to FabiNoventero]
+[05:08:01] [pool-14-thread-1/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:08:01] [Server thread/INFO]: [MurderMystery] Saved inventory of FabiNoventero
+[05:08:18] [Server thread/INFO]: FabiNoventero issued server command: /mm
+[05:08:54] [Server thread/INFO]: FabiNoventero issued server command: /mma locales
+[05:09:17] [Server thread/INFO]: FabiNoventero issued server command: /mma rolepass add 111 FabiNoventero
+[05:09:21] [Server thread/INFO]: FabiNoventero issued server command: /mma rolepass add 111 FabiNoventero
+[05:09:29] [Server thread/INFO]: adr123643 fell out of the world
+[05:09:38] [Server thread/INFO]: FabiNoventero issued server command: /mm join Village Zoiresu
+[05:09:42] [Server thread/INFO]: FabiNoventero issued server command: /mm join Village Zoiresu
+[05:09:44] [Server thread/INFO]: [MurderMystery] Loaded inventory of FabiNoventero
+[05:09:46] [Server thread/INFO]: FabiNoventero issued server command: /mm join Village Zoiresu
+[05:09:47] [Server thread/INFO]: [MurderMystery] Saved inventory of FabiNoventero
+[05:09:52] [Server thread/INFO]: [MurderMystery] Loaded inventory of FabiNoventero
+[05:10:21] [Server thread/INFO]: FabiNoventero issued server command: /mma setup
+[05:10:34] [Server thread/WARN]: [MurderMystery] [Debug] Block at location world,100,21,-629,0.0,0.0 for arena Village added as sign!
+[05:10:34] [Server thread/INFO]: Arena Prision instance successfully started!
+[05:10:34] [Server thread/WARN]: [MurderMystery] [Debug] Block at location world,101,21,-629,0.0,0.0 for arena Prision added as sign!
+[05:10:34] [Server thread/WARN]: [MurderMystery] [Debug] Block at location world,100,21,-629,0.0,0.0 for arena Village added as sign!
+[05:10:39] [Server thread/INFO]: FabiNoventero issued server command: /op adr123643
+[05:10:39] [Server thread/INFO]: [FabiNoventero: Made adr123643 a server operator]
+[05:10:43] [Server thread/INFO]: FabiNoventero issued server command: /op Zoiresu
+[05:10:43] [Server thread/INFO]: [FabiNoventero: Made Zoiresu a server operator]
+[05:10:44] [Server thread/INFO]: adr123643 issued server command: /ban Zoiresu
+[05:10:44] [Server thread/INFO]: [adr123643: Banned Zoiresu: Banned by an operator.]
+[05:10:44] [Server thread/INFO]: Zoiresu lost connection: You are banned from this server
+[05:10:44] [Server thread/INFO]: Zoiresu left the game
+[05:10:57] [User Authenticator #4/INFO]: UUID of player Zoiresu is 4773e8df-77f9-3cac-ab7b-05d317771d9d
+[05:10:57] [Server thread/INFO]: Disconnecting Zoiresu (/127.157.146.62:53863): You are banned from this server.
+Reason: Banned by an operator.
+[05:10:57] [Server thread/INFO]: Zoiresu (/127.157.146.62:53863) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[05:11:02] [User Authenticator #4/INFO]: UUID of player Zoiresu is 4773e8df-77f9-3cac-ab7b-05d317771d9d
+[05:11:02] [Server thread/INFO]: Disconnecting Zoiresu (/127.157.146.62:44147): You are banned from this server.
+Reason: Banned by an operator.
+[05:11:02] [Server thread/INFO]: Zoiresu (/127.157.146.62:44147) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[05:11:25] [User Authenticator #4/INFO]: UUID of player Zoiresu is 4773e8df-77f9-3cac-ab7b-05d317771d9d
+[05:11:25] [Server thread/INFO]: Disconnecting Zoiresu (/127.157.146.62:32911): You are banned from this server.
+Reason: Banned by an operator.
+[05:11:25] [Server thread/INFO]: Zoiresu (/127.157.146.62:32911) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[05:11:33] [User Authenticator #4/INFO]: UUID of player Zoiresu is 4773e8df-77f9-3cac-ab7b-05d317771d9d
+[05:11:33] [Server thread/INFO]: Disconnecting Zoiresu (/127.157.146.62:38835): You are banned from this server.
+Reason: Banned by an operator.
+[05:11:33] [Server thread/INFO]: Zoiresu (/127.157.146.62:38835) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[05:11:37] [User Authenticator #4/INFO]: UUID of player Zoiresu is 4773e8df-77f9-3cac-ab7b-05d317771d9d
+[05:11:37] [Server thread/INFO]: Disconnecting Zoiresu (/127.157.146.62:53079): You are banned from this server.
+Reason: Banned by an operator.
+[05:11:37] [Server thread/INFO]: Zoiresu (/127.157.146.62:53079) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[05:11:44] [User Authenticator #4/INFO]: UUID of player Zoiresu is 4773e8df-77f9-3cac-ab7b-05d317771d9d
+[05:11:44] [Server thread/INFO]: Disconnecting Zoiresu (/127.157.146.62:44539): You are banned from this server.
+Reason: Banned by an operator.
+[05:11:44] [Server thread/INFO]: Zoiresu (/127.157.146.62:44539) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[05:11:44] [Server thread/INFO]: Unknown or incomplete command, see below for error
+unban<--[HERE]
+[05:11:48] [Server thread/INFO]: adr123643 issued server command: /ban-ip
+[05:11:53] [User Authenticator #4/INFO]: UUID of player Zoiresu is 4773e8df-77f9-3cac-ab7b-05d317771d9d
+[05:11:54] [Server thread/INFO]: Disconnecting Zoiresu (/127.157.146.62:51803): You are banned from this server.
+Reason: Banned by an operator.
+[05:11:54] [Server thread/INFO]: Zoiresu (/127.157.146.62:51803) lost connection: You are banned from this server.
+Reason: Banned by an operator.
