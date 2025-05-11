@@ -237,3 +237,68 @@ o<--[HERE]
 [05:22:02] [Server thread/WARN]: Zoiresu moved too quickly! -14.770668879391703,0.5813359922251706,17.32088965008775
 [05:22:02] [Server thread/WARN]: Mattakchero_24 moved too quickly! 14.962774342736104,-5.7826406445233545,-5.989953805020654
 [05:22:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7263ms or 145 ticks behind
+[05:24:02] [Server thread/INFO]: [MurderMystery] Loaded inventory of adr123643
+[05:24:11] [Server thread/INFO]: [MurderMystery] Loaded inventory of Zoiresu
+[05:24:11] [Server thread/INFO]: [MurderMystery] Loaded inventory of Mattakchero_24
+[05:24:11] [Server thread/INFO]: [MurderMystery] Loaded inventory of FabiNoventero
+[05:24:19] [Server thread/INFO]: [MurderMystery] Saved inventory of adr123643
+[05:24:19] [Server thread/INFO]: [MurderMystery] Saved inventory of Zoiresu
+[05:24:20] [Server thread/INFO]: [MurderMystery] Saved inventory of FabiNoventero
+[05:24:22] [Server thread/INFO]: [MurderMystery] Loaded inventory of adr123643
+[05:24:23] [Server thread/INFO]: [MurderMystery] Saved inventory of Mattakchero_24
+[05:24:24] [Server thread/INFO]: [MurderMystery] Loaded inventory of Zoiresu
+[05:24:25] [Server thread/INFO]: [MurderMystery] Saved inventory of adr123643
+[05:24:26] [Server thread/INFO]: [MurderMystery] Saved inventory of Zoiresu
+[05:27:02] [Server thread/INFO]: [MurderMystery] Loaded inventory of Mattakchero_24
+[05:27:13] [Server thread/INFO]: [MurderMystery] Loaded inventory of adr123643
+[05:27:14] [Server thread/INFO]: [MurderMystery] Loaded inventory of Zoiresu
+[05:27:14] [Server thread/INFO]: [MurderMystery] Loaded inventory of FabiNoventero
+[05:27:21] [Server thread/INFO]: Mattakchero_24 fell out of the world
+[05:27:22] [Server thread/INFO]: [MurderMystery] Saved inventory of adr123643
+[05:27:25] [Server thread/INFO]: [MurderMystery] Saved inventory of FabiNoventero
+[05:27:33] [Server thread/INFO]: [MurderMystery] Loaded inventory of FabiNoventero
+[05:27:37] [Server thread/INFO]: [MurderMystery] Saved inventory of Mattakchero_24
+[05:27:37] [Server thread/INFO]: [MurderMystery] Loaded inventory of adr123643
+[05:27:42] [Server thread/INFO]: [MurderMystery] Saved inventory of adr123643
+[05:27:45] [Server thread/INFO]: [MurderMystery] Saved inventory of FabiNoventero
+[05:27:45] [Server thread/INFO]: [MurderMystery] Loaded inventory of Mattakchero_24
+[05:27:47] [Server thread/INFO]: [MurderMystery] Loaded inventory of adr123643
+[05:27:48] [Server thread/INFO]: [MurderMystery] Loaded inventory of FabiNoventero
+[05:27:48] [Server thread/INFO]: [MurderMystery] Saved inventory of Mattakchero_24
+[05:27:49] [Server thread/INFO]: [MurderMystery] Saved inventory of Zoiresu
+[05:27:49] [Server thread/INFO]: [MurderMystery] Saved inventory of adr123643
+[05:27:52] [Server thread/INFO]: [MurderMystery] Saved inventory of FabiNoventero
+[05:28:12] [Server thread/INFO]: FabiNoventero lost connection: Disconnected
+[05:28:12] [Server thread/INFO]: [MurderMystery] Loaded inventory of FabiNoventero
+[05:28:12] [Server thread/INFO]: FabiNoventero left the game
+[05:28:18] [User Authenticator #6/INFO]: UUID of player FabiNoventero is 9211fcd9-37f7-383a-8283-f6405f81ee85
+[05:28:19] [Server thread/INFO]: FabiNoventero joined the game
+[05:28:19] [Server thread/INFO]: FabiNoventero[/127.92.80.51:59883] logged in with entity id 157 at ([worled]-12.110175840643365, 30.0, 27.30000001192093)
+[05:28:23] [Server thread/INFO]: [MurderMystery] Saved inventory of FabiNoventero
+[05:28:28] [Server thread/WARN]: [MurderMystery] [Debug] §cGame message not found in your locale!
+[05:28:28] [Server thread/WARN]: [MurderMystery] [Debug] §cPlease regenerate your language.yml file! If error still occurs report it to the developer on discord!
+[05:28:28] [Server thread/WARN]: [MurderMystery] [Debug] §cPath: In-Game.Messages.Game-End.Placeholders.Innocent.Killed.All
+[05:28:28] [Server thread/INFO]: Mattakchero_24 has made the advancement [Take Aim]
+[05:28:33] [Server thread/INFO]: [MurderMystery] Loaded inventory of Mattakchero_24
+[05:28:36] [Server thread/INFO]: [MurderMystery] Loaded inventory of FabiNoventero
+[05:28:42] [Server thread/INFO]: [MurderMystery] Loaded inventory of Zoiresu
+[05:28:44] [Server thread/INFO]: [MurderMystery] Loaded inventory of adr123643
+[05:28:50] [Server thread/INFO]: [MurderMystery] Saved inventory of Zoiresu
+[05:28:58] [Server thread/INFO]: FabiNoventero issued server command: /mma rolepass
+[05:29:09] [Server thread/INFO]: FabiNoventero issued server command: /mma rolepass set FabiNoventero 0
+[05:29:12] [Server thread/INFO]: [MurderMystery] Loaded inventory of Zoiresu
+[05:29:21] [Server thread/INFO]: FabiNoventero issued server command: /mma rolepass set Murder 0
+[05:29:24] [Server thread/INFO]: FabiNoventero issued server command: /mma rolepass set Murder 0 FabiNoventero
+[05:29:30] [Server thread/INFO]: FabiNoventero issued server command: /mma rolepass set Murder 0 FabiNoventero
+[05:29:37] [Server thread/INFO]: FabiNoventero issued server command: /mma rolepass set Detective 0 FabiNoventero
+[05:29:40] [Server thread/INFO]: [MurderMystery] Saved inventory of FabiNoventero
+[05:29:46] [Server thread/INFO]: [MurderMystery] Loaded inventory of FabiNoventero
+[05:29:53] [Server thread/INFO]: FabiNoventero issued server command: /mma rolepass set Murderer 0 FabiNoventero
+[05:30:07] [Server thread/INFO]: FabiNoventero issued server command: /mma locwand
+[05:30:07] [Server thread/INFO]: FabiNoventero has made the advancement [Into Fire]
+[05:30:21] [Server thread/INFO]: adr123643 fell out of the world
+[05:30:31] [Server thread/INFO]: [MurderMystery] Saved inventory of FabiNoventero
+[05:30:36] [Server thread/INFO]: [MurderMystery] Saved inventory of adr123643
+[05:30:48] [Server thread/INFO]: [MurderMystery] Saved inventory of Mattakchero_24
+[05:31:03] [Server thread/INFO]: [MurderMystery] Saved inventory of Zoiresu
+[05:31:41] [Server thread/WARN]: Mattakchero_24 moved too quickly! -40.52387427164908,0.07242780368044421,-2.5720428583637798
