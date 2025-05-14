@@ -1,36 +1,37 @@
 data-version: 1
 9211fcd9-37f7-383a-8283-f6405f81ee85:
   playername: FabiNoventero
-  next_level_exp: 1000
-  level: 2
-  contribution_murderer: 1
-  games_played: 100
-  exp: 1000
-  contribution_detective: 1
+  next_level_exp: 1838
+  level: 3
+  contribution_murderer: 99
+  games_played: 101
+  exp: 1010
+  contribution_detective: 72
   kills: 6
-  wins: 2
+  wins: 3
   highest_score: 300
   deaths: 6
 4773e8df-77f9-3cac-ab7b-05d317771d9d:
   playername: Zoiresu
   next_level_exp: 354
   level: 1
-  deaths: 12
-  games_played: 6
-  exp: 60
+  deaths: 14
+  games_played: 7
+  exp: 70
   highest_score: 975
 e42d5715-f2f6-3000-944d-b2ca32c6aa6c:
   playername: adr123643
   next_level_exp: 354
   level: 1
   deaths: 4
-  games_played: 6
-  exp: 60
+  games_played: 7
+  exp: 70
   highest_score: 630
-  contribution_detective: 213
-  contribution_murderer: 14
-  kills: 9
+  contribution_detective: 234
+  contribution_murderer: 76
+  kills: 13
   wins: 4
+  loses: 1
 5c0f2616-6d3a-3d80-aab4-e0333c885a87:
   playername: Mattakchero_24
   next_level_exp: 354

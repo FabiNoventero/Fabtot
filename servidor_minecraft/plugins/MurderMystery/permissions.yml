@@ -8,7 +8,7 @@ Chances-Boost:
   chances-boost-5: 10
   chances-boost-50: 50
   # Increase chance by 100 times
-  admin-boost: 100
+  admin-boost: 0
 
 
 Murderer-Boost:
@@ -17,7 +17,7 @@ Murderer-Boost:
   murderer-boost-5: 10
   murderer-boost-50: 50
   # Increase murderer chance by 100
-  admin-boost: 100
+  admin-boost: 0
 
 
 Detective-Boost:
@@ -26,7 +26,7 @@ Detective-Boost:
   detective-boost-5: 10
   detective-boost-50: 50
   # Increase detective chance by 100
-  admin-boost: 100
+  admin-boost: 0
 
 
 # Create custom exp boost permissions
